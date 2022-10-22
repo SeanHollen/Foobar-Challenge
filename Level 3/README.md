@@ -3,7 +3,9 @@
 I got 168 hours (7 days) for each of 3 problems. In order received:
 
 *the-greatest-staircase-of-them-all*: Dynamic Programming question
+
 *fuel-ingestion-perfection*: Markov Chain problem
+
 *doomsday-fuel*: Arithmetic Operations and Efficient Recursion (at least I used recursion) problem 
 
 **Notes**
