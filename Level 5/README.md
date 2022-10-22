@@ -2,7 +2,7 @@
 
 I got 528 hours (22 days) to complete 1 problem:
 
-*escape-pods*: Cellular Autonoma problem with boolean logic
+*expanding-nebula*: Cellular Autonoma problem with boolean logic
 
 **Notes**
 
