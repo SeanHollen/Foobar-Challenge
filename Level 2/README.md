@@ -3,6 +3,7 @@
 I got 168 hours (7 days) for each of 2 problems. In order received:
 
 *elevator-maintainance*: Sorting problem
+
 *en-route-salute*: simple problem with a "trick" to make it linear-time
 
 **Notes**
