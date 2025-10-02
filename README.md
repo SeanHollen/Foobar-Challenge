@@ -1,5 +1,3 @@
-Foobar Challenge is Google's secret coding challenge. They at one point used it for recruiting, but I don't know if that's still true. Who knows, I might have a recruiter hit me up later about this. But it's been a few months since I finished it, and Google's going through a hiring feeze. 
-
 I got the foobar link by searching circa 2017. I didn't actually start the challenge until 2022.
 
 The time constraints were different than older versions. I get a full week for each problem in levels 1-3, which is different than previous versions.
